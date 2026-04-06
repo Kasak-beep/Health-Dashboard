@@ -1,7 +1,7 @@
 # Health-Dashboard
 
 # 🩺 Healthcare Patient Monitoring Dashboard
-## Personal Contribution Report | Kasak Singh
+## Personal Contribution Report | Kasak Singh | 23BCE10250
 
 > **Role:** Integration, Project Setup & Troubleshooting
 > **Focus:** System Architecture, Database Connectivity, and Version Control
@@ -79,6 +79,5 @@ I developed the "glue" code that allows the frontend to communicate with the MyS
 
 ## 🎓 Academic Details
 * **University:** VIT Bhopal
-* **Specialization:** B.Tech Computer Science (Cybersecurity)
-* **Semester:** 6th Semester
-* **Subject:** Advanced Java
+* **Specialization:** B.Tech Computer Science 
+* **Subject:** Advanced Java Programming 
