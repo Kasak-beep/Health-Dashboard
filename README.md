@@ -36,6 +36,10 @@ I developed the "glue" code that allows the frontend to communicate with the MyS
 * **Tools:** IntelliJ IDEA, Git, GitHub
 * **GUI:** Java Swing (Advanced Layouts & Custom Renderers)
 
+
+
+
+
 ## Dashboard Preview
 
 ### Main Dashboard
@@ -61,6 +65,14 @@ I developed the "glue" code that allows the frontend to communicate with the MyS
 ## Project Structure
 
 ![Project Structure](./assets/Projectstructure.png)
+
+
+
+
+
+
+
+
 
 
 
