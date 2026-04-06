@@ -3,13 +3,13 @@
 # 🩺 Healthcare Patient Monitoring Dashboard
 ## Personal Contribution Report | Kasak Singh
 
-> **Role:** Integration Lead & DevOps Manager  
+> **Role:** Integration, Project Setup & Troubleshooting
 > **Focus:** System Architecture, Database Connectivity, and Version Control
 
 ---
 
 ## 🚀 My Core Contributions
-As the **Integration Lead** for this 6th-semester Advanced Java project at **VIT Bhopal**, I was responsible for transforming individual code components into a synchronized, deployable application.
+As the **Integration Lead** for this  Advanced Java project at **VIT Bhopal**, I was responsible for transforming individual code components into a synchronized, deployable application.
 
 ### 1. Architectural Refactoring (MVC Pattern)
 I migrated the project from a flat directory to a professional **Model-View-Controller (MVC)** structure. 
@@ -29,7 +29,7 @@ I developed the "glue" code that allows the frontend to communicate with the MyS
 
 ---
 
-## 🛠️ Technical Stack (My Expertise)
+## 🛠️ Technical Stack 
 * **Language:** Java (Advanced)
 * **Architecture:** MVC (Model-View-Controller)
 * **Database:** JDBC, MySQL
