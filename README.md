@@ -36,6 +36,34 @@ I developed the "glue" code that allows the frontend to communicate with the MyS
 * **Tools:** IntelliJ IDEA, Git, GitHub
 * **GUI:** Java Swing (Advanced Layouts & Custom Renderers)
 
+## Dashboard Preview
+
+### Main Dashboard
+![Main Dashboard](./assets/Maindashboard.png)
+
+
+
+### Patient Data
+![Patient Data](./assets/working.png)
+
+
+
+### Alert System 
+![Alert System](./assets/Alert.png)
+
+## How to Run
+1. Clone this repository
+   git clone https://github.com/Kasak-beep/Healthcare-Dashboard
+2. Open project in your IDE (Eclipse/IntelliJ)
+3. Setup MySQL database using files in /database folder
+4. Run the main file from /src folder
+
+## Project Structure
+
+![Project Structure](./assets/Projectstructure.png)
+
+
+
 ---
 
 ## 📊 Dashboard Preview (My Integration Work)
